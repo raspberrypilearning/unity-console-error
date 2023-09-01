@@ -1,9 +1,9 @@
-Check:
+Controleer:
 
-+ **; expected**: check for a semicolon `;` at the end of each line of code.
-+ **Newline in constant**: you missed a quote `"` from the end of a text string.
-+ **} expected**: you should have a pair of open and closed curly brackets `{}` around each method and around the class. Check that your curly brackets match.
-+ **) expected**: make sure there's a closing `)` at the end of each Method call, before the semicolon.
-+ **Debug does not contain a definition for 'log'**: C# is case sensitive, it needs to be `Log` with a capital `L`.
++ **; expected**: – controleer of er een puntkomma `;` aan het einde van elke regel code staat.
++ **Newline in constant** – je hebt een aanhalingsteken `"` gemist aan het einde van een tekenreeks.
++ **} expected** – je zou een paar open en dichte accolades `{}` moeten hebben rond elke method en rond de class. Controleer of de accolades overeenkomen.
++ **) expected** – zorg ervoor dat er een afsluitende `)` is aan het einde van elke method-aanroep, vóór de puntkomma.
++ **Debug does not contain a definition for 'log' **: C# is hoofdlettergevoelig, dus het moet `Log` zijn met een hoofdletter `L`.
 
-**Tip:** Double-click on a code error in the Console to go straight to the line of code that is causing the problem.
+**Tip:** Dubbelklik op een fout in je code in de Console om direct naar de code te gaan die het probleem veroorzaakt.
